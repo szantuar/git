@@ -1,3 +1,3 @@
 # git
 
-test gita
+test gita, dodawanie nowych plikow
