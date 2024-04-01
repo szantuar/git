@@ -6,5 +6,6 @@ echo "test gita";
 //druga edycja
 
 echo "main change";
+echo "status2";
 
 ?>
